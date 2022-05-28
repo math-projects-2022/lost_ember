@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Саня\Desktop\уник\Диф.ур\Lab2\Lab2\Source.cpp(13,14): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Саня\Desktop\уник\Диф.ур\Lab2\Lab2\Source.cpp(34,14): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+  Lab2.vcxproj -> C:\Users\Саня\Desktop\уник\Диф.ур\Lab2\x64\Debug\Lab2.exe
